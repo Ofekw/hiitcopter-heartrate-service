@@ -24,7 +24,7 @@ router.get('/', function(req, res) {
     res.json({ message: 'hooray! welcome to our api!' });   
 });
 
-router.put('/heartrate/*', function(req, res) {
+router.put('/heartrate', function(req, res) {
    heartRates.push({time : new Date(), heartrate: req.query.heartrate});
    res.json({ message: 'heartrate recorded' });   
 });
