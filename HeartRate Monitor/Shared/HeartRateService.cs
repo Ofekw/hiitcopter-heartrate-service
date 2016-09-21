@@ -62,6 +62,9 @@ namespace BluetoothGattHeartRate
         public event ValueChangeCompletedHandler ValueChangeCompleted;
         public event DeviceConnectionUpdatedHandler DeviceConnectionUpdated;
 
+        DateTime startTime = DateTime.UtcNow;
+        TimeSpan breakDuration = TimeSpan.FromSeconds(1);
+
         public static HeartRateService Instance
         {
             get { return instance; }
@@ -323,7 +326,8 @@ namespace BluetoothGattHeartRate
 
             // saveStringToLocalFile("heartrate.txt", heartRateMeasurementValue.ToString());
 
-            PutRequest(heartRateMeasurementValue);
+                PutRequest(heartRateMeasurementValue);
+                startTime = DateTime.UtcNow;
 
             return new HeartRateMeasurement
             {
@@ -335,19 +339,19 @@ namespace BluetoothGattHeartRate
 
         private async Task<HttpResponseMessage> PutRequest(int heartrate)
         {
-            using (var client = new HttpClient())
-            {
-                client.BaseAddress = new Uri("http://hiitcopter.herokuapp.com:8080/api/");
-                client.DefaultRequestHeaders.Accept.Clear();
-                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+            var client = new HttpClient();
+            client.BaseAddress = new Uri("http://localhost:8080/api/");
+            client.DefaultRequestHeaders.Accept.Clear();
+            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
 
-                var stringContent = new StringContent(heartrate.ToString());
-               // var content = new StringContent(heartrate.ToString(), Encoding.UTF8, "application/json");
+            var stringContent = new StringContent(heartrate.ToString());
+            // var content = new StringContent(heartrate.ToString(), Encoding.UTF8, "application/json");
 
-                HttpResponseMessage response = await client.PutAsync("heartrate/?heartrate=" + heartrate.ToString(), stringContent);   
-                    return response;
-            }
+            HttpResponseMessage response = await client.PutAsync("heartrate?heartrate=" + heartrate.ToString(), stringContent);
+            return response;
+            
         }
 
         async Task saveStringToLocalFile(string filename, string content)
