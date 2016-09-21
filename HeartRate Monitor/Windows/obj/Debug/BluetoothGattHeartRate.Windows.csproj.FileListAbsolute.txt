@@ -1,0 +1,110 @@
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\App.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\Scenario1_DeviceEvents.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\Scenario2_ReadCharacteristicValue.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\Scenario3_WriteCharacteristicValue.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\MainPage.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\Styles\Styles.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\BluetoothGattHeartRate.Windows.xr.xml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\BluetoothGattHeartRate.Windows.exe
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\BluetoothGattHeartRate.Windows.pdb
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\resources.pri
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\AppxManifest.xml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\bin\Debug\BluetoothGattHeartRate.Windows.build.appxrecipe
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\App.g.i.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\App.g.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\MainPage.g.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Styles\Styles.g.i.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Styles\Styles.g.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario1_DeviceEvents.g.i.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario1_DeviceEvents.g.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario2_ReadCharacteristicValue.g.i.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario2_ReadCharacteristicValue.g.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario3_WriteCharacteristicValue.g.i.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario3_WriteCharacteristicValue.g.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\App.xaml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\MainPage.xaml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Styles\Styles.xaml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario1_DeviceEvents.xaml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario2_ReadCharacteristicValue.xaml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario3_WriteCharacteristicValue.xaml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\App.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\MainPage.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Styles\Styles.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario1_DeviceEvents.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario2_ReadCharacteristicValue.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\Scenario3_WriteCharacteristicValue.xbf
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\BluetoothGattHeartRate.Windows.exe
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\BluetoothGattHeartRate.Windows.pdb
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\priconfig.xml
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\layout.resfiles
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\resources.resfiles
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\pri.resfiles
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\qualifiers.txt
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ofekw\Downloads\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\App.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\Scenario1_DeviceEvents.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\Scenario2_ReadCharacteristicValue.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\Scenario3_WriteCharacteristicValue.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\MainPage.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\Styles\Styles.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\BluetoothGattHeartRate.Windows.xr.xml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\BluetoothGattHeartRate.Windows.exe
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\BluetoothGattHeartRate.Windows.pdb
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\resources.pri
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\AppxManifest.xml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\BluetoothGattHeartRate.Windows.build.appxrecipe
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\App.g.i.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\App.g.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\MainPage.g.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Styles\Styles.g.i.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Styles\Styles.g.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario1_DeviceEvents.g.i.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario1_DeviceEvents.g.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario2_ReadCharacteristicValue.g.i.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario2_ReadCharacteristicValue.g.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario3_WriteCharacteristicValue.g.i.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario3_WriteCharacteristicValue.g.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\App.xaml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\MainPage.xaml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Styles\Styles.xaml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario1_DeviceEvents.xaml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario2_ReadCharacteristicValue.xaml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario3_WriteCharacteristicValue.xaml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\App.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\MainPage.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Styles\Styles.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario1_DeviceEvents.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario2_ReadCharacteristicValue.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\Scenario3_WriteCharacteristicValue.xbf
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\BluetoothGattHeartRate.Windows.exe
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\BluetoothGattHeartRate.Windows.pdb
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\priconfig.xml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\layout.resfiles
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\resources.resfiles
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\pri.resfiles
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\qualifiers.txt
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\BluetoothGattHeartRate.Windows.csprojResolveAssemblyReference.cache
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ofekw\Downloads\Uni related work\hiitcopter-heartrate-service\HeartRate Monitor\Windows\obj\Debug\BluetoothGattHeartRate.Windows.csproj.GenerateResource.Cache
