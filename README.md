@@ -1,5 +1,5 @@
 # hiitcopter-heartrate-service
-
+Please see this repo for the game: https://github.com/Ofekw/HIIT-Copter
 ## How To setup and use heartrate service:
 * Clone this repo: https://github.com/Ofekw/hiitcopter-heartrate-service
 * Install Node.js
